@@ -1,4 +1,3 @@
-from msvcrt import kbhit
 from flask import Flask, request, redirect
 import random
 
